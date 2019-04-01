@@ -1,4 +1,4 @@
-# ASM~~R~~ Release
+# ASM Release
 
 * Incremental build
 * Block coding
